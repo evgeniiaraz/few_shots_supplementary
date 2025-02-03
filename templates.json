@@ -1,0 +1,15 @@
+{
+    "intents": {
+        "qa": "Sentence: SENTENCE\nGiven the sentence above, QUESTION\nAnswer: ",
+        "qa_as_task": "question: QUESTION context: yes no SENTENCE"},
+    "slots": {
+            "qa": "Sentence: SENTENCE\nGiven the sentence above, QUESTION\nAnswer: "
+    
+    },
+    "xnli": {"qa": "Premise: PREMISE\nHypothesis: HYPOTHESIS\nGiven the premise and hypothesis above, QUESTION\nAnswer: "
+	},
+    "ner": {"qa": "Sentence: SENTENCE\nGiven the sentence above, QUESTION\nAnswer: "
+        },
+    "xcopa": {"qa": "Here is a premise: PREMISE\nWhat is the QUESTION?\nOptions: OPTIONS\nAnswer: "
+        }
+}
