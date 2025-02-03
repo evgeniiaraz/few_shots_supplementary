@@ -3,7 +3,7 @@
 
 #### `dataset_indices.json`
 
-File containining indices used for training and evaluation on Multi3NLU++
+File containining indices used for training and evaluation on Multi3NLU++. The indices are provided for reproducing the experiments.
 
 #### `dataset_indices_{*}.json`
 
@@ -13,6 +13,7 @@ Files containing indices used for training and evaluation on:
  - XCOPA
  - MasakhaNER
 
+The indices are provided for reproducibility of the experiments.
 
 #### `templates.json`
 
