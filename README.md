@@ -5,7 +5,7 @@
 
 File containining indices used for training and evaluation on Multi3NLU++. The indices are provided for reproducing the experiments.
 
-#### `dataset_indices_{*}.json`
+#### `sampled_{*}.json`
 
 Files containing indices used for training and evaluation on:
 
